@@ -1,4 +1,4 @@
-# WeatherApp![ExcessiveHeatWarningSunshineGIF](https://github.com/vaishali22071997/WeatherApp/assets/137603391/3d71b2e8-bb19-419a-92e4-16a9ec532f73)
+# WeatherApp ⛅🌤️🌦️🌞
 
 I done this "WeatherApp" project using openWeather API to forecast Temp, Humidity ,Wind from Geolocation.
 
