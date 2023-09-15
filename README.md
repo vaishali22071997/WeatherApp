@@ -1,4 +1,4 @@
-# WeatherApp ⛅🌤️🌦️🌞
+# WeatherApp "https://vaishali22071997.github.io/WeatherApp/"
 
 I done this "WeatherApp" project using openWeather API to forecast Temp, Humidity ,Wind from Geolocation.
 
