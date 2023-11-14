@@ -1,6 +1,6 @@
-# WeatherApp "https://vaishali22071997.github.io/WeatherApp/"
-
 This is Designed and Developed using HTML, CSS, JavaScript. It is an API Based project.This web app helps us to determine the current weather.Using OpenWeather API to forecast Temp, Humidity ,Wind from Geolocation.
+
+weather-app-ten-sepia-34.vercel.app
 
 1.Open "WeatherApp" then Home Screen is Open, Choose Your Current Location or Other City Name to Know Weather Of That City.
 ![1](https://github.com/vaishali22071997/WeatherApp/assets/137603391/21dcef9a-65fd-4a20-9777-8002585d271e)
